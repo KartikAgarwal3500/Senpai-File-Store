@@ -85,13 +85,13 @@
 
 <b><details><summary>Tap On Me For See Credit</summary>
 
-💝 Credit Goes To [Tech VJ](https://telegram.me/Kingvj01)
+💝 Credit Goes To [Senpai DxD](https://telegram.me/Senpai_dxd)
 
-🖍️ This Code Is Fully Written Or Coded And Public By [Tech VJ](https://telegram.me/Kingvj01) So Don't Forgot To Give Credit
+🖍️ This Code Is Fully Written Or Coded And Public By [Senpai DxD](https://telegram.me/senpai_dxd) So Don't Forgot To Give Credit
 
 💖 And Thank You So Much To All Who Help In This Journey 💕
 
-Copyright ©️ [Tech VJ](https://telegram.me/Kingvj01)
+Copyright ©️ [Senpai Dxd](https://telegram.me/Kingvj01)
 
 </b>
 </details>
@@ -106,7 +106,7 @@ Copyright ©️ [Tech VJ](https://telegram.me/Kingvj01)
 </details>
 
 
-### Copyright ©️ [Tech VJ](https://telegram.me/Senpai_Dxd)
+### Copyright ©️ [Senpai Dxd](https://telegram.me/Senpai_Dxd)
 
 <b>Selling This Repo Or Code Of This Repo For Money Is Strictly Prohibited 🚫</b>
 
